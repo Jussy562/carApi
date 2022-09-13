@@ -1,0 +1,211 @@
+{
+    "vehicles": [
+        {
+            "id": 1,
+            "brand": "Toyota",
+            "model": "Camry",
+            "model code": "2017 (XV70)",
+            "description": "Mid-size sedan (D-segment) marketed globally. Hybrid powertrain is optional.",
+            "price": 200,
+            "image": "/image/camry1.jpg"
+        },
+
+        {
+            "id": 2,
+            "brand": "Toyota",
+            "model": "Camry",
+            "model code": "3.5V6AT",
+            "description": "For a car that exudes a high level of respect, make sure to consider the Toyota Camry. The Toyota Camry’s sleek design (both interior and exterior) commands an impressive presence to behold. Power is presented with the grille and muscular fenders. Inside, a center stack with access to tech-savvy features is the highlight.The Toyota Camry has total motoring ingenuity right under its hood. A V6 engine powers to luxurious vehicle, while paddle shifters in the steering wheel gives an innovative feel on how it’s like to be a racer.",
+            "price": 200,
+            "image": "/image/toyota1.jpg"
+        },
+
+        {
+            "id": 3,
+            "brand": "Lexus",
+            "model": "LX",
+            "model code": "LX 470",
+            "description": "Full-size luxury SUV based on the Toyota Land Cruiser.",
+            "price": 200,
+            "image": "/image/toyota2.jpg"
+        },
+
+        {
+            "id": 4,
+            "brand": "Hyundai",
+            "model": "Santa FE",
+            "model code": "2.2 CRDi GLS",
+            "description":"An SUV that both looks impressive and performs equally best – that’s what a Hyundai Santa Fe is!. The latest Hyundai Santa Fe boasts of improving its interior space! Additionally, the second and third row seats can be folded, granting quick and innovative cargo loading solutions!. With an impressive V6 engine, you can surely only get the best road performance from the Hyundai Santa Fe. And the power under the hood of this vehicle equates to its towing capacity! Truly, a feat worthy to be experience by all!.",
+            "price":200,
+            "image": "/image/toyota3.jpg"
+        },
+
+        {
+            "id": 5,
+            "brand": "Ford",
+            "model": "Fusion",
+            "model code": "ford fusion",
+            "description":"Drive off towards a stunning future with the Ford Fusion. This mid-size sedan offers a great blend of personality and performance, perfect for urban drivers and the like. Particularly for the 2017 model, the Ford Fusion now comes with LED Lighting for that practical and powerful illumination towards a great future.",
+            "price":200,
+            "image": "/image/hyundai1.jpg"
+        },
+
+        {
+            "id": 6,
+            "brand": "Ford",
+            "model": "EcoSport",
+            "model code": "1.5L Ambiente MT",
+            "description":"The perfect car for those with an unstoppable drive to experience life, the Ford EcoSport is a subcompact crossover SUV that definitely delivers. The Ford EcoSport’s unique appearance doesn’t only exude style – the car is designed to function, with its aerodynamic and modern touches prove to be a sight to behold.",
+            "price":200,
+            "image": "/image/hyundai2.jpg"
+        },
+
+        {
+            "id": 7,
+            "brand": "Hyundai",
+            "model": "Grandeur",
+            "model code": "Grandeur",
+            "description":"Like a cool breeze, the Hyundai Azera has everything for a comfortable and stylish driving experience. Passenger volume is of the highest priority in the Hyundai Azera. The car tops even the highest luxury competitors in its range. Additionally, a smart trunk (which opens up once it senses the proximity keys) offers that much-needed convenience that most would often disregard.",
+            "price":200,
+            "image": "/image/hyundai1.jpg"
+        },
+
+        {
+            "id": 8,
+            "brand": "Ford",
+            "model": "Fusion",
+            "model code": "ford fusion",
+            "description":"Drive off towards a stunning future with the Ford Fusion. This mid-size sedan offers a great blend of personality and performance, perfect for urban drivers and the like.",
+            "price":200,
+            "image": "/image/toyota2.jpg"
+        },
+
+        {
+            "id": 9,
+            "brand": "Ford",
+            "model": "Explorer",
+            "model code": "2.0 EcoBoost Limited A/T",
+            "description":"The Ford Explorer is a sports utility vehicle designed and produced by Ford. It was first introduced in 1990 and is still present today. It is considered as one of the most popular SUVs due to its modern built and high-powered engine",
+            "price":200,
+            "image": "/image/lexus4.jpg"
+        },
+
+        {
+            "id": 10,
+            "brand": "Hyundai",
+            "model": "Elantra",
+            "model code": "2.0GL AT",
+            "description":"The Hyundai Elantra is a car designed and manufactured by Hyundai, a South Korean automaker. It was first introduced in 1990 and is still marketed today. It is now on the sixth generation that was released in February 2016. It has six different engine types and 3 different transmissions to choose from.",
+            "price":200,
+            "image": "/image/hyundai1.jpg"
+        },
+
+        {
+            "id": 11,
+            "brand": "Toyota",
+            "model": "corolla",
+            "model code": "Altis 2.0VAT",
+            "description":"The Corolla Altis’ lightweight body and suspension system allows drivers to be in a vehicle that will definitely get through the tight corners and nooks of a crowded concrete jungle.",
+            "price":200,
+            "image": "/image/toyota4.jpg"
+        },
+
+        {
+            "id": 12,
+            "brand": "Lexus",
+            "model": "LX",
+            "model code": "LX 570",
+            "description":"As the most expensive and biggest automobile model that Lexus produces, motorists can only expect the best out of the LX. And, aptly so, this is assured, with style carefully taken into consideration and motoring enhancements and innovations always equipped on each and every Lexus LX release. With several variants to choose from, the Lexus can address all sorts of driving conditions and driver needs. With three-row and two-row versions, space-saving solutions and passenger safety and condition is placed at the best and highest priority.",
+            "price":200,
+            "image": "/image/lexus2.jpg"
+        },
+
+        {
+            "id": 13,
+            "brand": "Lexus",
+            "model": "GS",
+            "model code": "350 F-Sport",
+            "description":"A high-performance executive car. Yes, you read that ride. Lexus has managed to create not only a luxurious sedan that it has always been known for, but one that can even quench the need for speed that most motorist desire for.The Lexus GS truly has the right stuff for speed without losing out its luxurious touch!",
+            "price":200,
+            "image": "/image/lexus3.jpg"
+        },
+
+        {
+            "id": 14,
+            "brand": "Lexus",
+            "model": "RX",
+            "model code": "RX350 premier",
+            "description":"Since 1998, Lexus RX, a mid-size luxury crossover Sports Utility Vehicle has been sold.",
+            "price":200,
+            "image": "/image/lexus1.jpg"
+        },
+
+        {
+            "id": 15,
+            "brand": "Toyota",
+            "model": "Vios",
+            "model code": "1.5 GAT",
+            "description":"Move forward to a brighter future in the Toyota Vios. As one of the most exciting releases out of the popular Japanese car company, this is a vehicle that will both excite and deliver.",
+            "price":200,
+            "image": "/image/camry1.jpg"
+        },
+
+        {
+            "id": 16,
+            "brand": "Toyota",
+            "model": "Wigo",
+            "model code": "1.0 GMT",
+            "description":"Getting around the city is now fun and exciting with the Toyota Wigo. The Toyota Wigo is powered by an advanced VVT-i engine – this results in powerful and even fuel-efficient drives!",
+            "price":200,
+            "image": "/image/toyota2.jpg"
+        },
+
+        {
+            "id": 17,
+            "brand": "Ford",
+            "model": "Everest",
+            "model code": "Ambiente 2.2L 4x2MT",
+            "description":"Today’s Ford Everest is an exemption from the rest of its generations, because it is more refined now.",
+            "price":200,
+            "image": "/image/lexus4.jpg"
+        },
+
+        {
+            "id": 18,
+            "brand": "Hyundai",
+            "model": "Accent Sedan",
+            "model code": "1.4GL MT",
+            "description":"Hyundai Accent has been established as an affordable car ever since its creation in 1995. Its models range from $3,000 to $16,000. On the same year, Hyundai Accent has been recognized as a three-door hatchback or a four door sedan ride. Either one of these body styles can be chosen to design for your Hyundai Accent.",
+            "price":200,
+            "image": "/image/hyundai2.jpg"
+        },
+
+        {
+            "id": 19,
+            "brand": "Lexus",
+            "model": "RX",
+            "model code": "RX430h",
+            "description":"Since 1998, Lexus RX, a mid-size luxury crossover Sports Utility Vehicle has been sold.",
+            "price":200,
+            "image": "/image/lexus1.jpg"
+        },
+
+        {
+            "id": 20,
+            "brand": "Toyota",
+            "model": "Camry",
+            "model code": "2.5 GAT",
+            "description":"For a car that exudes a high level of respect, make sure to consider the Toyota Camry. The Toyota Camry’s sleek design (both interior and exterior) commands an impressive presence to behold. Power is presented with the grille and muscular fenders. Inside, a center stack with access to tech-savvy features is the highlight.The Toyota Camry has total motoring ingenuity right under its hood. A V6 engine powers to luxurious vehicle, while paddle shifters in the steering wheel gives an innovative feel on how it’s like to be a racer.",
+            "price":200,
+            "image": "/image/camry1.jpg"
+        }
+
+
+
+        
+        
+        
+        
+        
+    ]
+}
